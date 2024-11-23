@@ -14,7 +14,7 @@ public class Book {
 
     // Getters and Setters
     public String getTitle() { return title; }
-    public String getAuthor() { return author}
+    public String getAuthor() { return author;}
     public String getIsbn() { return isbn; }
     public int getCopies() { return copies; }
 
